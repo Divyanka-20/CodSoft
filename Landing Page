@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Repair Service</title>
+</head>
+<body style="font-family: Arial, sans-serif; 
+			margin: 0; 
+			padding: 0; 
+			background: url('https://tse2.mm.bing.net/th?id=OIP.Jh_LjyKrL0g6kZgTrzOwGQHaE7&pid=Api&P=0&h=220')no-repeat center center fixed; 
+			background-size: cover;">
+
+   <header style="background-color: #333; 
+				color: #fff; 
+				padding: 10px 0;">
+        <div style="text-align: center; 
+					margin-bottom: 20px;">
+            <h1 style="color: #3fff; text-decoration: none;">ABC Car Repair</h1>
+        </div>
+        <nav style="text-align: center;">
+            <button style="color: #3fff; text-decoration: none; margin: 0 15px;">Home</button>
+            <button style="color: #3fff; text-decoration: none; margin: 0 15px;">Services</button>
+            <button style="color: #3fff; text-decoration: none; margin: 0 15px;">About</button>
+            <button style="color: #3fff; text-decoration: none; margin: 0 15px;">Contact</button>
+        </nav>
+    </header>
+
+<section style="padding: 20px;">
+    <div style="text-align: center; 
+				margin: 20px 0;">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.MfEVRN6uNVDSqL9W_XkJ4wHaE8&pid=Api&P=0&h=220" alt="Car Repair" style="max-width: 100%; height: auto;">
+    </div>
+    <h2 style="text-align: center; color: #333ffff;">Professional Car Repair Services</h2>
+    <p style="text-align: center; color: black;">
+        At ABC Car Repair Center, we are dedicated to providing top-notch automotive repair services to keep your vehicle running smoothly and safely.<br>
+		With years of experience and a team of skilled technicians, we offer a comprehensive range of services tailored to meet all your car maintenance 
+		and repair needs.<br>
+		Whether it's a routine oil change, brake service, engine repair, or tire rotation, you can trust us to deliver exceptional service with a commitment to
+		quality and customer satisfaction.<br>
+		We use state-of-the-art equipment and high-quality parts to ensure your car receives the best care possible.<br>
+		Our mission is to provide reliable, affordable, and efficient car repair services to our community.<br>
+		We understand the importance of your vehicle in
+		your daily life, and we strive to get you back on the road quickly and safely.<br>
+		Visit us today at ABC Car Repair Center, where your car's health is our top priority.<br>
+		We offer a wide range of car repair services to keep your vehicle running smoothly. From oil changes to engine repairs, our experienced technicians are here to help you.
+    </p>
+</section>
+
+<section style="background-color: #fff; 
+				padding: 20px; 
+				text-align: center;">
+    <h2 style="color: #333;">Our Services</h2>
+    <ul style="list-style-type: none; padding: 0;">
+		<li style="margin: 10px 0; color: #666;">Car Washing</li>
+		<li style="margin: 10px 0; color: #666;">Diagnostic Services</li>
+		<li style="margin: 10px 0; color: #666;">Engine Repair and Maintenance</li>
+		<li style="margin: 10px 0; color: #666;">Brake Services</li>
+		<li style="margin: 10px 0; color: #666;">Oil Change and Lubrication</li>
+		<li style="margin: 10px 0; color: #666;">Tire Services</li>
+		<li style="margin: 10px 0; color: #666;">Transmission Services</li>
+		<li style="margin: 10px 0; color: #666;">Battery Services</li>
+		<li style="margin: 10px 0; color: #666;">Suspension and Steering</li>
+		<li style="margin: 10px 0; color: #666;">Exhaust System Services</li>
+		<li style="margin: 10px 0; color: #666;">Air Conditioning and Heating</li>
+		<li style="margin: 10px 0; color: #666;">Electrical System Services</li>
+		<li style="margin: 10px 0; color: #666;">Body and Paint Services</li>
+		<li style="margin: 10px 0; color: #666;">Scheduled Maintenance</li>
+		<li style="margin: 10px 0; color: #666;">Customer Amenities</li>
+		<li style="margin: 10px 0; color: #666;">Emergency Roadside Assistance</li>
+    </ul>
+</section>
+
+<section style="background-color: #333; 
+				color: #fff; 
+				padding: 20px; 
+				text-align: center;">
+    <h2>Contact Us</h2>
+    <p>Email: info@abccarrepair.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>Address: 1234 Car Repair Lane, Auto City, State, 56789</p>
+</section>
+
+<footer style="background-color: rgba(0, 0, 0, 0.8); color: #fff; text-align: center; padding: 10px 0;">
+    <p>&copy; 2024 ABC Car Repair. All rights reserved.</p>
+</footer>
